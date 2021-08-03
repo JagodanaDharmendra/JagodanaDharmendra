@@ -14,7 +14,7 @@ An experienced Front-end web developer aiming to continue building a strong tech
 - 🔭 I’m currently working as **Freelance Full Stack | Business Automation Developer**
 - 🌱 I’m currently learning **Microservices**
 - 🥅 2021 Goals: Creating a Games servers (Coming Soon)
-- 
+
 ---
 
 <div style="display: flex; justify-content:center; margin-top: 2em;">
