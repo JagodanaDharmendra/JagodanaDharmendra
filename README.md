@@ -12,7 +12,7 @@ An experienced Fullstack web developer aiming to continue building a strong tech
 <br/>
 
 - 🔭 I’m currently working as **Full Stack(Web3.0 and Web2.0) | Game Developer(Unity3D)**
-- 🌱 I’m currently learning **Crypto World with Smart Contracts(using Solidity)*
+- 🌱 I’m currently learning **Crypto World with Smart Contracts(using Solidity)**
 
 ---
 
